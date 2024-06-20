@@ -1,2 +1,2 @@
 # TicTacToe
-Java project
+An easy Java project to practice coding skills.
